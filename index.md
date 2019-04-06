@@ -29,7 +29,7 @@ Syntax highlighted code block
 ```
 
 
-<img src: "https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif" />
+<img src:"https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif?raw=true" />
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
