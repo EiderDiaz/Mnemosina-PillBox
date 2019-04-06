@@ -18,9 +18,9 @@ Economic spillover in the health sector
 ![](PPT4.png)
 ![](PPT5.png)
 
-#Prototype
-![](Bmodel.gif)
-
+# Prototype
+![](tapa 2.STL)
+![](Base.STL)
 
 ### Support or Contact
 
