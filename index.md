@@ -29,7 +29,7 @@ Syntax highlighted code block
 ```
 
 ![grab-landing-page]
-(https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif?raw=true)
+(https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
