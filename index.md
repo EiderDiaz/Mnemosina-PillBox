@@ -3,22 +3,21 @@
 ## Welcome to the Mnemosina-Pillbox
 
 
-### Problem
+# Problem
 
-26 to 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime.
-take more than two medications at different times and frequencies is hard.
-patients stop taking medication for lack of cognitive support
-economic spillover in the health sector
+In México, 26 to 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime.
 
-## Opportunity 
+Take more than two medications at different times and frequencies is hard.
+
+Patients stop taking medication for lack of cognitive support
+
+Economic spillover in the health sector
+
+# Opportunity 
 ![](PPT3.png)
 ![](PPT4.png)
 ![](PPT5.png)
 ![](Bmodel.gif)
-
-
-### Jekyll Themes
-
 
 
 ### Support or Contact
