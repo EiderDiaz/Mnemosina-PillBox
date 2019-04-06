@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mnemosina PillBox  
 
 ### Did you know that more than 50% of patients abandon their therapeutical regime?
@@ -12,8 +13,19 @@ This is a wide spread phenomenon, is estimated that between 26 and 59 % of elder
 - take more than two medications at different times and frequencies is hard.
 - patients stop taking medication for lack of cognitive support
 - economic spillover in the health sector
+=======
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Welcome to the Mnemosina-Pillbox
+
+>>>>>>> 40d14502f519f74476a7a2a50ff7276b63570a1e
+
+### Problem
+
+26 to 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime.
+take more than two medications at different times and frequencies is hard.
+patients stop taking medication for lack of cognitive support
+economic spillover in the health sector
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +44,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![GitHub Logo](/model.gif)
+Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -41,4 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
