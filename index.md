@@ -1,3 +1,5 @@
+
+
 ## Welcome to the Mnemosina-Pillbox
 
 
@@ -25,6 +27,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![GitHub Logo](/model.gif)
+Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
