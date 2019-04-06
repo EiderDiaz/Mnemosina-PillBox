@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+# Mnemosina PillBox  
 
-You can use the [editor on GitHub](https://github.com/braulioarredondo/Mnemosine-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Did you know that more than 50% of patients abandon their therapeutical regime?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### that’s because they take more than 2 different medicines at different frequencies.
+This is a wide spread phenomenon, is estimated that between 26 and 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime and also Take more than two medications at different times and frequencies which is hard for them.
 
-### Markdown
+##  Statement of the problem
+
+
+- 26 to 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime.
+- take more than two medications at different times and frequencies is hard.
+- patients stop taking medication for lack of cognitive support
+- economic spillover in the health sector
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
