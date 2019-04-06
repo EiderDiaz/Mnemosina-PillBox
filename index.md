@@ -1,24 +1,7 @@
-<<<<<<< HEAD
-# Mnemosina PillBox  
-
-### Did you know that more than 50% of patients abandon their therapeutical regime?
-
-### that’s because they take more than 2 different medicines at different frequencies.
-This is a wide spread phenomenon, is estimated that between 26 and 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime and also Take more than two medications at different times and frequencies which is hard for them.
-
-##  Statement of the problem
-
-
-- 26 to 59 % of elders are part of the phenomenon called “Abandonment of treatment”, which consists in interrupting the therapeutic regime.
-- take more than two medications at different times and frequencies is hard.
-- patients stop taking medication for lack of cognitive support
-- economic spillover in the health sector
-=======
 
 
 ## Welcome to the Mnemosina-Pillbox
 
->>>>>>> 40d14502f519f74476a7a2a50ff7276b63570a1e
 
 ### Problem
 
@@ -44,8 +27,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![GitHub Logo](/model.gif)
-Format: ![Alt Text](url)
+
+![grab-landing-page]
+(https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
