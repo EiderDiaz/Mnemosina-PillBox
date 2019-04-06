@@ -28,8 +28,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
-<img src:"https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif?raw=true" />
+![](Bmodel.gif)
+<img src: "https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/Bmodel.gif?raw=true" />
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
