@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![grab-landing-page]
+![alt-text](link)
 (https://github.com/EiderDiaz/Mnemosina-PillBox/blob/master/model.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
